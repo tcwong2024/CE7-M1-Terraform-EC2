@@ -1,1 +1,1 @@
-# Sample-ec2-terraform
+# Create terraform file to setup EC2
